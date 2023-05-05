@@ -1,7 +1,10 @@
-### Hi there 👋
-- 🌱 My name is Dimitar and I am a Python/QA Student, but don't worry I am a fast learner. 
+### Hi there 👋 My name is Dimitar and I am a Python/QA Student
+- 🌱  
 - 🔭 I’m currently working in Kids School of Robotics "Robopartans" as Teacher and manager
 - 📫 This is my [LinkedIn Profile](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/) if you want to see me
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
 
 <!--
 **DimitarTamahkyarov/DimitarTamahkyarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
