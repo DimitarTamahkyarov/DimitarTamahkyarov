@@ -3,7 +3,7 @@
 - 🔭 I’m currently working in Kids School of Robotics "Robopartans" as Teacher and manager
 ---
 How you can reach me:
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarTamahkyarov&show_icons=true&theme=highcontrast)
 
