@@ -1,8 +1,9 @@
 ### Hi there, I'm Dimitar - Python/QA Student 👋
 --- 
 - 🔭 I’m currently working in Kids School of Robotics "Robopartans" as Teacher and manager
+---
+How you can reach me:
 - 📫 This is my [LinkedIn Profile](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/) if you want to see me
-
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarTamahkyarov&show_icons=true&theme=highcontrast)
 
