@@ -2,7 +2,7 @@
 --- 
 - 🔭 I’m currently working in Kids School of Robotics "Robopartans" as Teacher and manager
 ---
-How you can reach me:
+You can find me on:
 <br>
 <br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/)
 ---
