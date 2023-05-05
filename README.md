@@ -1,4 +1,4 @@
-### Hi there, I'm Dimitar - Python/QA Student 👋 
+<center>### Hi there, I'm Dimitar - Python/QA Student 👋</center>
 --- 
 - 🔭 I’m currently working in Kids School of Robotics "Robopartans" as Teacher and manager
 - 📫 This is my [LinkedIn Profile](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/) if you want to see me
