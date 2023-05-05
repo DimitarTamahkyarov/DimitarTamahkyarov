@@ -3,10 +3,10 @@
 - 🔭 I’m currently working in Kids School of Robotics "Robopartans" as Teacher and manager
 - 📫 This is my [LinkedIn Profile](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/) if you want to see me
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DimitarTamahkyarov/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DimitarTamahkyarov&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/DimitarTamahkyarov/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DimitarTamahkyarov&repo=convoychat" />
 </a>
 
