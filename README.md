@@ -1,5 +1,6 @@
 ### Hi there, I'm Dimitar - Python/QA Student 👋
 --- 
+- 📖 Graduated Ship Engineer
 - 🔭 I’m currently working in Kids School of Robotics "Robopartans" as Teacher and manager
 ---
 You can find me on:
