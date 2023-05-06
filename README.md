@@ -1,7 +1,13 @@
 ### Hi there, I'm Dimitar - Python/QA Student 👋
 --- 
-- 📖 Graduated Ship Engineer
-- 🔭 I’m currently working in Kids School of Robotics "Robopartans" as Teacher and manager
+certificates = ["[SoftUni Fundamentals 2023](https://softuni.bg/certificates/details/167209/1ba07492)", "[SoftUni Basics 2022](https://softuni.bg/certificates/details/146391/dc338052)", "[SoftUni QA Basics 2023](https://softuni.bg/certificates/details/154598/7dc914b6)", "Ship engineer bachelor degree 2014"]<br>
+hard_skills = ["Python", "C#", "QA", "HTML", "CSS"]<br>
+soft_skills = ["Fast learner", "Adaptability", "Problem-solving", "Teamwork", "Work ethic", "Leadership", "Attention to detail"]<br>
+<br>
+work_experience = {<br>
+"Kids School of Robotics 'Robopartans'": ["Teacher and manager", "1 Year"],<br>
+"Sanco Shipping": ["Ship Engineer", "7 Years"]<br>
+}
 ---
 You can find me on:
 <br>
@@ -9,17 +15,3 @@ You can find me on:
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarTamahkyarov&show_icons=true&theme=highcontrast)
 
-<!--
-**DimitarTamahkyarov/DimitarTamahkyarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
