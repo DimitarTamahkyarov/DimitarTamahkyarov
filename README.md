@@ -1,10 +1,9 @@
 ## Hi there, I'm Dimitar 👋
 I'm curently a SoftUni Student with Python and I'm working at "Robopartans" - Kids School of Robotics as a Teacher and Manager. There I teach kids of The Basic Concepts in the Programming world whth LEGO Block Coding and Python.
 
-
 --- 
-- hard_skills = ["Python", "C#", "QA", "HTML", "CSS"]
-- soft_skills = ["Fast learner", "Adaptability", "Problem-solving", "Teamwork", "Work ethic", "Leadership", "Attention to detail"]
+- hard_skills = ["Python", "C#", "QA", "HTML", "CSS", "Linux"]
+- soft_skills = ["Algorithmic mindset", "Fast learner", "Adaptability", "Problem-solving", "Teamwork", "Work ethic", "Leadership", "Attention to detail"]
 ---
 Certificates:
 - [SoftUni Fundamentals with Python - Jan 2023](https://softuni.bg/certificates/details/167209/1ba07492)
