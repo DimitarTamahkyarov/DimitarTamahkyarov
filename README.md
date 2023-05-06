@@ -1,5 +1,5 @@
 ## Hi there, I'm Dimitar 👋
-I'm curently a SoftUni Student with Python and I'm working at "Robopartans" - Kids School of Robotics as a Teacher and Manager. There I teach kids of The Basic Concepts in the Programming world whth LEGO Block Coding and Python.
+I'm curently a SoftUni Student with Python and I'm working at "Robopartans" - Kids School of Robotics as a Teacher and Manager. There I teach kids of The Basic Concepts in the Programming world whth LEGO Block Coding and Python also plan, direct, and coordinate the work.
 
 --- 
 - hard_skills = ["Python", "C#", "QA", "HTML", "CSS", "Linux"]
