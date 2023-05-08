@@ -9,7 +9,7 @@ Certificates:
 - [SoftUni Fundamentals with Python - Jan 2023](https://softuni.bg/certificates/details/167209/1ba07492)
 - [SoftUni QA Basics - Jan 2023](https://softuni.bg/certificates/details/154598/7dc914b6)
 - [SoftUni Basics - Sep 2022](https://softuni.bg/certificates/details/146391/dc338052)
-- Ship engineer bachelor degree 2014
+- [Ship Engineer Bachelor Degree 2014](http://www.naval-acad.bg/)
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DimitarTamahkyarov&show_icons=true&theme=highcontrast" alt="GitHub stats" />
