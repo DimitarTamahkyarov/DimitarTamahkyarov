@@ -11,11 +11,10 @@ Certificates:
 - [SoftUni Basics - Sep 2022](https://softuni.bg/certificates/details/146391/dc338052)
 - Ship engineer bachelor degree 2014
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarTamahkyarov&show_icons=true&theme=highcontrast)
----
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/)
-![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DimitarTamahkyarov&show_icons=true&theme=highcontrast" alt="GitHub stats" />
+</p>
+
 ---
 <p align="center"><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="Example GIF" width="800" height="200"></p>
 
