@@ -1,21 +1,36 @@
-## Hi there, I'm Dimitar 👋 
+# Hi there, I'm Dimitar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-I'm currently a SoftUni Student with Python and I'm working at "Robopartans" - Kids School of Robotics as a Teacher and Manager. There I teach kids of The Basic Concepts in the Programming world with LEGO Block Programming and Python, I also plan, direct, and coordinate the work in the company.  
+## ( QA and SoftUni Student with Python, working as a Teacher and Coordinator )
 
---- 
-- hard_skills = ["Python", "C#", "QA", "HTML", "CSS", "Linux"]
-- soft_skills = ["Algorithmic mindset", "Fast learner", "Adaptability", "Problem-solving", "Teamwork", "Work ethic", "Leadership", "Attention to detail"]
+* 🌍  I'm based in Burgas, Bulgaria
+* ✉️  You can contact me at [dimitar.tamahkyarov91@gmail.com](mailto:dimitar.tamahkyarov91@gmail.com)
+* 🚀  I'm currently working on ["Robopartans" - Kids School of Robotic](http://robopartans.com/en/)
+* 🧠  I'm learning Python
+* ⏫  My strengths are: Algorithmic mindset, Fast learning, Adaptability, Problem-solving, Teamwork, Work ethic, Attention to detail
+* 🤝  I'm open to collaborating on Interesting projects
+* ⚡  I like to Ride Bicycle, Play Billiard, Learn new staff and Programming
+
 ---
+# Skills =====> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <===== Skills
+
+---
+
 Certificates:
 - [SoftUni Fundamentals with Python - Jan 2023](https://softuni.bg/certificates/details/167209/1ba07492)
 - [SoftUni QA Basics - Jan 2023](https://softuni.bg/certificates/details/154598/7dc914b6)
 - [SoftUni Basics - Sep 2022](https://softuni.bg/certificates/details/146391/dc338052)
 - [Ship Engineer Bachelor Degree 2014](http://www.naval-acad.bg/)
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimitarTamahkyarov&show_icons=true&theme=highcontrast" alt="GitHub stats" />
-</p>
 
 ---
-<p align="center"><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="Example GIF" width="800" height="200"></p>
+
+<a href="http://www.github.com/DimitarTamahkyarov"><img src="https://github-readme-stats.vercel.app/api?username=DimitarTamahkyarov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DimitarTamahkyarov's GitHub stats" /></a>
+<a href="https://github.com/DimitarTamahkyarov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarTamahkyarov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+---
+
+<a href="http://www.github.com/DimitarTamahkyarov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DimitarTamahkyarov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+---
+
+<p align="center"><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="Example GIF" width="900" height="300"></p>
 
