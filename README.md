@@ -3,7 +3,7 @@
 ## <p align="center">(Engineer, QA and SoftUni Student with Python, working as a Teacher and Coordinator)</p>
 
 * 🌍  I'm based in Burgas, Bulgaria
-* ✉️  You can contact me at [dimitar.tamahkyarov91@gmail.com](mailto:dimitar.tamahkyarov91@gmail.com)
+* ✉️  You can contact me at [dimitar.tamahkyarov91@gmail.com](mailto:dimitar.tamahkyarov91@gmail.com) and [LinkedIn](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/)
 * 🚀  I'm currently working on ["Robopartans" - Kids School of Robotic](http://robopartans.com/en/)
 * 🧠  I'm learning Python
 * ⏫  My strengths are: Algorithmic mindset, Fast learning, Adaptability, Problem-solving, Teamwork, Work ethic, Attention to detail
