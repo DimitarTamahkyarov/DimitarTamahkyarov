@@ -1,6 +1,6 @@
 # <p align="center"> Hi there, I'm Dimitar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </p>
 
-## <p align="center">(Engineer, QA and Python Developer, working as a Teacher and Coordinator)</p>
+## <p align="center">(Junior Python Developer, QA, Teacher and Coordinator)</p>
 
 * 🌍  I'm based in __Burgas, Bulgaria__
 * ✉️  You can contact me at [dimitar.tamahkyarov91@gmail.com](mailto:dimitar.tamahkyarov91@gmail.com) and [LinkedIn](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/)
