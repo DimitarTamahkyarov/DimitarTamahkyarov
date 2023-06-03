@@ -22,7 +22,5 @@
 
 ---  
 
-<a href="http://www.github.com/DimitarTamahkyarov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DimitarTamahkyarov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <p align="center"><img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="Example GIF" width="900" height="300"></p>
 
