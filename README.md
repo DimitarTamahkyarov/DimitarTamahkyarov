@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in __Burgas, Bulgaria__
 * ✉️  You can contact me at [dimitar.tamahkyarov91@gmail.com](mailto:dimitar.tamahkyarov91@gmail.com) and [LinkedIn](https://www.linkedin.com/in/dimitar-tamahkyarov-6a6684186/)
-* 🚀  I'm currently working on [Strypes](https://strypes.eu/)
+* 🚀  I'm currently working in [Strypes](https://strypes.eu/)
 * 🧠  I'm learning __Python__
 * ⏫  My strengths are: __Algorithmic mindset, Fast learning, Adaptability, Problem-solving, Work ethic, Attention to detail__
 * 🤝  I'm open for __New Opportunities__
